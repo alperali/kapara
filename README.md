@@ -43,7 +43,3 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 678 1447
 0850 678 1464
 ```
-
----
-
-- [ ] JSON dosya eklenecek.
