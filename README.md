@@ -6,6 +6,8 @@ ve aldıkları ticari SMS paketlerinin faturaları bilinmesine rağmen neden hak
 
 2026 Ocak itibarıyla bana gelen kumar ve bahis konulu SMS mesajlarını ekran görüntüleri ve JSON dosya halinde burada ifşa ediyorum.
 
+Ekran görüntüleri `ekran` klasöründedir.
+
 # Bulgular
 - Kumar ve bahis konulu SMS mesajlarında [B Kodları](https://www.btk.gov.tr/haberler/sms-ler-icin-btk-dan-4-haneli-kod-uygulmasi) yoktur.
 - Mesajları gönderen numaraya bir SMS atarsanız faturanıza "yurt dışı sms" ücreti yansımakta ve alıcısı olarak Kuzey Kıbrıs görünmektedir.
