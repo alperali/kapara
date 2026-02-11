@@ -17,7 +17,33 @@ Ekran görüntüleri `ekran` klasöründedir.
 1. B kodları olmayan SMS mesajı nasıl olup da bana ulaşmaktadır? Telefon operatörü neden bunu engellememektedir?
 2. Yıllardır bir defa bile sitesini kullanmamış kişilere neden hala SMS mesajları göndermektedirler? Acaba kumar/bahis oynatma kisvesi altında toplu ticari SMS paketleri alım satımı ile mi aslında kara para aklanmaktadır?
 
+# Numaralar
+Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar aşağıda listelenmiştir:
+```
+0850 420 2891
+0850 425 0497
+0850 425 0852
+0850 425 0946
+0850 434 0555
+0850 434 1014
+0850 434 1041
+0850 434 1042
+0850 545 4830
+0850 552 9244
+0850 552 9999
+0850 633 0380
+0850 633 0596
+0850 633 0636
+0850 633 0929
+0850 678 1077
+0850 678 1109
+0850 678 1431
+0850 678 1434
+0850 678 1445
+0850 678 1447
+0850 678 1464
+```
+
 ---
 
 - [ ] JSON dosya eklenecek.
-- [ ] Numaralar tablo olarak README'de görüntülensin.
