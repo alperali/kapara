@@ -19,6 +19,5 @@ Ekran görüntüleri `ekran` klasöründedir.
 
 ---
 
-- [ ] Ekran görüntüleri eklenecek.
 - [ ] JSON dosya eklenecek.
 - [ ] Numaralar tablo olarak README'de görüntülensin.
