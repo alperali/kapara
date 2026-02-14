@@ -1,6 +1,6 @@
 # Giriş
 Bir defa bile sitelerini kullanmamış olmama rağmen 10 yıldan fazla bir süredir kumar ve bahis konulu SMS mesajları mağduruyum.
-Bir ara bu mesajları şikayet edebildiğimiz Ticaret Bakanlığının bir web sitesi vardı, orada 100'den fazla kayıt açtım
+Bir ara bu mesajları şikayet edebildiğimiz Ticaret Bakanlığının bir web sitesi vardı, orada 100'den fazla kayıt açmıştım
 fakat hiçbir sonuç çıkmadı, ve o site de artık kapandı. Bu mesajları gönderen numaralar, kullandıkları telefon operatörleri
 ve aldıkları ticari SMS paketlerinin faturaları bilinmesine rağmen neden haklarında işlem yapılamadığı bir muammadır.
 
