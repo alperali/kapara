@@ -237,5 +237,27 @@
                 "ekran": "Screenshot_20260213-134920.png"
             }
         ]
+    },
+    {
+        "gönderen": "08507459349",
+        "mesajlar": [
+            {
+                "tarih": "2026-02-17T23:43",
+                "ekran": "Screenshot_20260218_090222_Messages.jpg"
+            }
+        ]
+    },
+    {
+        "gönderen": "08507710269",
+        "mesajlar": [
+            {
+                "tarih": "2026-02-14T21:16",
+                "ekran": "Screenshot_20260218_090309_Messages.jpg"
+            },
+            {
+                "tarih": "2026-02-17T23:45",
+                "ekran": "Screenshot_20260218_090309_Messages.jpg"
+            }
+        ]
     }
 ]

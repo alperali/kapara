@@ -1,10 +1,10 @@
 # Giriş
-Bir defa bile sitelerini kullanmamış olmama rağmen 10 yıldan fazla bir süredir kumar ve bahis konulu SMS mesajları almaktayım.
+Bir defa bile sitelerini kullanmamış olmama rağmen 10 yıldan fazla bir süredir yasadışı kumar ve bahis konulu SMS mesajları almaktayım.
 Bir ara bu mesajları şikayet edebildiğimiz Ticaret Bakanlığının bir web sitesi vardı, orada 100'den fazla kayıt açmıştım
 fakat hiçbir sonuç çıkmadı, ve o site de artık kapandı. Bu mesajları gönderen numaralar, kullandıkları telefon operatörleri
 ve aldıkları ticari SMS paketlerinin faturaları bilinmesine rağmen neden haklarında işlem yapılamadığı bir muammadır.
 
-2026 Ocak itibarıyla bana gelen kumar ve bahis konulu SMS mesajlarını ekran görüntüleri ve JSON dosya halinde burada ifşa ediyorum.
+2026 Ocak itibarıyla bana gelen yasadışı kumar ve bahis konulu SMS mesajlarını ekran görüntüleri ve JSON dosya halinde burada ifşa ediyorum.
 
 Ekran görüntüleri `ekran` klasöründedir.
 
@@ -43,4 +43,6 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 678 1447
 0850 678 1464
 0850 678 1560
+0850 745 9349
+0850 771 0269
 ```
