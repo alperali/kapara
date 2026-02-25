@@ -195,6 +195,10 @@
             {
                 "tarih": "2026-01-27T12:03",
                 "ekran": "Screenshot_20260211_154520_Messages.jpg"
+            },
+            {
+                "tarih": "2026-02-23T21:02",
+                "ekran": "Screenshot_20260225_100210_Messages.jpg"
             }
         ]
     },
@@ -265,6 +269,15 @@
             {
                 "tarih": "2026-02-19T03:17",
                 "ekran": "Screenshot_20260219_204929_Messages.jpg"
+            }
+        ]
+    },
+    {
+        "gönderen": "08505529444",
+        "mesajlar": [
+            {
+                "tarih": "2026-02-23T22:23",
+                "ekran": "Screenshot_20260225_100145_Messages.jpg"
             }
         ]
     }

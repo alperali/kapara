@@ -30,6 +30,7 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 434 1042
 0850 545 4830
 0850 552 9244
+0850 552 9444
 0850 552 9999
 0850 633 0380
 0850 633 0596
