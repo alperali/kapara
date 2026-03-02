@@ -6,7 +6,7 @@ ve satın aldıkları toplu ticari SMS paketlerinin faturaları bilinmesine rağ
 
 2026 Ocak itibarıyla bana gelen yasadışı kumar ve bahis konulu SMS mesajlarını ekran görüntüleri ve JSON dosya halinde burada ifşa ediyorum.
 
-Ekran görüntüleri `ekran` klasöründedir. Tarih biçimi [standart Javascript tarih formatı](https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-date-time-string-format)ndadır.
+Ekran görüntüleri `ekran` klasöründedir. JSON dosyadaki tarih biçimi [standart Javascript tarih formatı](https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-date-time-string-format)ndadır.
 
 # Bulgular
 - Kumar ve bahis konulu SMS mesajlarında [B Kodları](https://www.btk.gov.tr/haberler/sms-ler-icin-btk-dan-4-haneli-kod-uygulmasi) yoktur. Listelerinden çıkma isteği iletebileceğimiz bir numara mesaj sonunda yoktur.
