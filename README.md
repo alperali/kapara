@@ -2,14 +2,14 @@
 Bir defa bile sitelerini kullanmamış olmama rağmen 10 yıldan fazla bir süredir yasadışı kumar ve bahis konulu SMS mesajları almaktayım.
 Bir ara bu mesajları şikayet edebildiğimiz Ticaret Bakanlığının bir web sitesi vardı, orada 100'den fazla kayıt açmıştım
 fakat hiçbir sonuç çıkmadı, ve o site de artık kapandı. Bu mesajları gönderen numaralar, kullandıkları telefon operatörleri
-ve aldıkları ticari SMS paketlerinin faturaları bilinmesine rağmen neden haklarında işlem yapılamadığı bir muammadır.
+ve satın aldıkları toplu ticari SMS paketlerinin faturaları bilinmesine rağmen neden haklarında işlem yapılamadığı bir muammadır.
 
 2026 Ocak itibarıyla bana gelen yasadışı kumar ve bahis konulu SMS mesajlarını ekran görüntüleri ve JSON dosya halinde burada ifşa ediyorum.
 
-Ekran görüntüleri `ekran` klasöründedir.
+Ekran görüntüleri `ekran` klasöründedir. Tarih biçimi [standart Javascript tarih formatı](https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-date-time-string-format)ndadır.
 
 # Bulgular
-- Kumar ve bahis konulu SMS mesajlarında [B Kodları](https://www.btk.gov.tr/haberler/sms-ler-icin-btk-dan-4-haneli-kod-uygulmasi) yoktur.
+- Kumar ve bahis konulu SMS mesajlarında [B Kodları](https://www.btk.gov.tr/haberler/sms-ler-icin-btk-dan-4-haneli-kod-uygulmasi) yoktur. Listelerinden çıkma isteği iletebileceğimiz bir numara mesaj sonunda yoktur.
 - Mesajları gönderen numaraya bir SMS atarsanız faturanıza "yurt dışı sms" ücreti yansımakta ve alıcısı olarak Kuzey Kıbrıs görünmektedir.
 - Telefondaki SMS uygulaması (Google Mesajlar gibi) bir istenmeyen mesaj (_spam_) filtreleme imkanı sunmasına rağmen bu özellik bazen yanlış pozitif (_false positive_) üreterek iş ve zaman kaybına neden olmaktadır (bir ödeme sistemi ve bir de seyahat şirketinden gelen mesajları spam zannetmiş, ödeme yapamadım, biletimi alamadım), bu nedenle spam engelleme benim için bir çözüm değildir ve devre dışıdır.
 
@@ -28,6 +28,7 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 434 1014
 0850 434 1041
 0850 434 1042
+0850 435 5454
 0850 545 4830
 0850 552 9244
 0850 552 9444
@@ -45,5 +46,7 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 678 1464
 0850 678 1560
 0850 745 9349
+0850 771 0146
 0850 771 0269
+0850 771 0270
 ```
