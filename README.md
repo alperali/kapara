@@ -50,3 +50,7 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 771 0269
 0850 771 0270
 ```
+Aşağıdaki numaralardan sesli arama yapılarak yasadışı kumar/bahis konulu bant kaydı dinlettirilmiştir:
+```
+0312 703 0396
+```
