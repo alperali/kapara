@@ -20,6 +20,7 @@ Ekran görüntüleri `ekran` klasöründedir. JSON dosyadaki tarih biçimi [stan
 # Numaralar
 Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar aşağıda listelenmiştir:
 ```
+0850 270 0103
 0850 420 2891
 0850 425 0497
 0850 425 0852
@@ -28,9 +29,11 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 434 1014
 0850 434 1041
 0850 434 1042
+0850 435 0920
 0850 435 5454
 0850 545 4830
 0850 552 9244
+0850 552 9400
 0850 552 9444
 0850 552 9999
 0850 633 0380
