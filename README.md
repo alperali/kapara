@@ -35,6 +35,7 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 552 9244
 0850 552 9400
 0850 552 9444
+0850 552 9901
 0850 552 9999
 0850 633 0380
 0850 633 0596
@@ -52,6 +53,7 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 771 0146
 0850 771 0269
 0850 771 0270
+0850 966 0674
 ```
 Aşağıdaki numaralardan sesli arama yapılarak yasadışı kumar/bahis konulu bant kaydı dinlettirilmiştir:
 ```
