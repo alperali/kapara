@@ -22,6 +22,8 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 ```
 0850 270 0103
 0850 270 0159
+0850 270 0212
+0850 270 0263
 0850 270 0663
 0850 420 2891
 0850 425 0497
@@ -53,7 +55,9 @@ Ekran görüntüleri alınmış kumar/bahis SMS mesajları gönderen numaralar a
 0850 678 1560
 0850 745 9349
 0850 771 0138
+0850 771 0144
 0850 771 0146
+0850 771 0196
 0850 771 0252
 0850 771 0269
 0850 771 0270
