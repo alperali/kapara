@@ -67,3 +67,10 @@ Aşağıdaki numaralardan sesli arama yapılarak yasadışı kumar/bahis konulu 
 ```
 0312 703 0396
 ```
+
+# Sonuç
+Burada aylardır yaptığım ifşa çalışması işe yaramadı.
+USOM'a yazdım, "benim işim değil" dedi.
+Ticari Elektronik İleti Şikeyet Sistemi kumar/bahis şikayetlerini kabul etmiyor.
+Sonunda dayanamayıp telefon operatörünü aradım, bağırıp çağırdım. Sonra e-devlet'e girip İleti Yönetim Sistemi'nden tüm izinleri kaldırdım (orada bankalar, mağazalar, şirketler vs var, hepsinden izinleri kapattım).
+Bilmiyorum hangisi işe yaradı ama yaklaşık 1 aydır kumar/bahis mesajları artık gelmiyor.
